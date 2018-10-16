@@ -44,7 +44,9 @@ Imports:
     glmnet,
     matrixStats,
     SuperLearner,
-    quantregForest
+    quantregForest,
+    LITAP
+Remotes: steffilazerte/LITAP
 License: What license it uses
 Encoding: UTF-8
 LazyData: TRUE

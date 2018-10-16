@@ -45,7 +45,8 @@ Imports:
     matrixStats,
     SuperLearner,
     quantregForest,
-    LITAP
+    LITAP,
+    intamap
 Remotes: steffilazerte/LITAP
 License: What license it uses
 Encoding: UTF-8

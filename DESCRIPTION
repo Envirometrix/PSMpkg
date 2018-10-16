@@ -1,0 +1,50 @@
+Package: PSMpkg
+Title: Predictive Soil Mapping with R
+Version: 0.0.1
+Authors@R: 
+    c(person("Tom", "Hengl", 
+    email = "tom.hengl@envirometrix.net", role = c("aut", "cre")),
+    person("Jakub", "Nowosad", 
+    email = "nowosad.jakub@gmail.com",
+    role = c("ctb"),
+    comment = c(ORCID = "0000-0002-1057-3721"))
+    )
+Description: The description file is used to keep track
+  of the packages used within this book.
+Imports: 
+    rgdal, 
+    raster, 
+    GSIF,
+    plotKML, 
+    nnet, 
+    plyr, 
+    ROCR,
+    randomForest, 
+    psych, 
+    mda, 
+    h2o, 
+    dismo, 
+    grDevices, 
+    snowfall, 
+    hexbin, 
+    lattice, 
+    ranger, 
+    soiltexture,
+    aqp, 
+    colorspace,
+    Cubist,
+    randomForestSRC,
+    ggRandomForests,
+    scales,
+    xgboost, 
+    parallel, 
+    doParallel, 
+    caret, 
+    gam, 
+    glmnet,
+    matrixStats,
+    SuperLearner
+License: What license it uses
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 6.1.0

@@ -43,7 +43,8 @@ Imports:
     gam, 
     glmnet,
     matrixStats,
-    SuperLearner
+    SuperLearner,
+    quantregForest
 License: What license it uses
 Encoding: UTF-8
 LazyData: TRUE

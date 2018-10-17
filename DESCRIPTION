@@ -46,7 +46,8 @@ Imports:
     SuperLearner,
     quantregForest,
     LITAP,
-    intamap
+    intamap,
+    fasterize
 Remotes: steffilazerte/LITAP
 License: What license it uses
 Encoding: UTF-8

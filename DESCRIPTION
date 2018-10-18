@@ -49,7 +49,9 @@ Imports:
     intamap,
     h2oEnsemble
     fasterize
-Remotes: steffilazerte/LITAP
+Remotes: 
+    steffilazerte/LITAP,
+    h2oai/h2o-3/h2o-r/ensemble/h2oEnsemble-package
 License: What license it uses
 Encoding: UTF-8
 LazyData: TRUE

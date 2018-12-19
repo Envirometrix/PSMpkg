@@ -1,6 +1,6 @@
 Package: PSMpkg
 Title: Predictive Soil Mapping with R
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     c(person("Tom", "Hengl", 
     email = "tom.hengl@envirometrix.net", role = c("aut", "cre")),
@@ -48,7 +48,8 @@ Imports:
     LITAP,
     intamap,
     h2oEnsemble,
-    fasterize
+    fasterize,
+    kernlab
 Remotes: 
     steffilazerte/LITAP,
     h2oai/h2o-3/h2o-r/ensemble/h2oEnsemble-package

@@ -1,6 +1,6 @@
 Package: PSMpkg
-Title: Predictive Soil Mapping with R
-Version: 0.0.2
+Title: Predictive Soil Mapping with R metapackage
+Version: 0.1.0
 Authors@R: 
     c(person("Tom", "Hengl", 
     email = "tom.hengl@envirometrix.net", role = c("aut", "cre")),
@@ -9,8 +9,7 @@ Authors@R:
     role = c("ctb"),
     comment = c(ORCID = "0000-0002-1057-3721"))
     )
-Description: The description file is used to keep track
-  of the packages used within this book.
+Description: Package to supplement the book redictive Soil Mapping with R .
 Imports: 
     rgdal, 
     raster, 
@@ -55,7 +54,7 @@ Imports:
 Remotes: 
     steffilazerte/LITAP,
     h2oai/h2o-3/h2o-r/ensemble/h2oEnsemble-package
-License: What license it uses
+License: CC BY-NC-ND 4.0
 Encoding: UTF-8
 LazyData: TRUE
 RoxygenNote: 6.1.0
